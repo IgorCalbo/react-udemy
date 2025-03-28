@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calca Vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Bone de aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "47ea",
+      "name": "capa de chuva",
+      "price": "50.50"
+    },
+    {
+      "id": "f77d",
+      "name": "teclado",
+      "price": "120"
+    },
+    {
+      "id": "c71b",
+      "name": "cadeira",
+      "price": "200"
+    },
+    {
+      "id": "6b4e",
+      "name": "cabo hdmi",
+      "price": "12"
+    },
+    {
+      "id": "1faa",
+      "name": "suporte microfone ",
+      "price": "120"
+    }
+  ]
+}
